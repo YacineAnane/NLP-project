@@ -5,6 +5,10 @@
 
 In this session, you will code a sentiment classifier on the IMDB sentiment dataset.
 
+This is the repository for the Lab 02 of Yacine Anane, Noé Jenn-Treyer, Adrien Houpert and Jules Dorbeau.
+You can see our results by running the notebook "NLP_Lab02.ipynb" and in the given files with the notebooks "01_stemming.ipynd" and "02_lemmatization.ipynb".
+
+
 **Please, read the full assignment before starting.**
 
 For coding standards, please respect the following guidelines
