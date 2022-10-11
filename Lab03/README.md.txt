@@ -5,6 +5,9 @@
 
 The project is a continuation of we started on the third lab. We will try beating the results we obtained with naive Bayes using the FastText library.
 
+This is the repository for the Lab 03 of Yacine Anane, Noé Jenn-Treyer, Adrien Houpert and Jules Dorbeau.
+You can see our results by running the notebook "NLP_Lab03.ipynb".
+
 ## FastText **(9 points)**
 
 Use the [FastText library](https://fasttext.cc/docs/en/support.html) to train and test a classifier.
