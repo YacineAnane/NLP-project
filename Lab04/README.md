@@ -5,6 +5,9 @@
 
 This lab is composed of 2 parts. First, using an RNN and LSTM to classify text. Then, a series of theoritical questions.
 
+This is the repository for the Lab 04 of Yacine Anane, Noé Jenn-Treyer, Adrien Houpert and Jules Dorbeau.
+You can see our results by running the notebook "IMDB_with_RNN.ipynb".
+
 ## RNN/LSTM classifier **(14 points)**
 
 Follow the `IMDB_with_RNN.ipynb` notebook. You'll have to fill missing functions, rewrite an RNN into an LSTM, and anwer a few questions. The notebook is self-explained.
