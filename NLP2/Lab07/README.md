@@ -1,4 +1,11 @@
-== Description du lab par adrien ==
+### Project Summary
+
+In this Lab we use a dataset, got with the ``Beir`` library, to work on search algorithm with transformer.
+We learn about how to choose correct model for the use case and how to check the result of it in a meaningful way by reimplementing the MAP process.
+Once it's done we try to make the request for the query to be faster by using the ``"Approximate nearest neighbours"`` method. Basically, we try to group the corpus together so the query will send back a group rather than corpus alone. This we get the queries to be faster but it will lessen the accuracy.
+
+### Architecture
+
 Everything can be found in the notebook named : 'NLP_lab07.ipynb'.
 
 # Introduction to Natural Language Processing 2 Lab03
