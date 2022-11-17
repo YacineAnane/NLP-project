@@ -1,0 +1,1 @@
+This folder is used to store the files into which are the functions that we are using in all our labs to, for example, clean or apply a treatment on our data.
