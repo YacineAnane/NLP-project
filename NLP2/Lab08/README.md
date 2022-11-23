@@ -1,3 +1,5 @@
+In this lab, we use a BERTopic model to anlyse tweets from the subsplit "offensive" of the dataset "tweet_eval". Then we use a RoBERTa  model pretrained on offensive tweets to classiy unlabelled tweets. Finally, we establish guidelines to manually annotate some of these tweets using Fleiss Kappa as a agreement mesure. 
+
 # Introduction to Natural Language Processing 2 Lab08
 
 **This lab is mainly about data and model analysis. There is very little code. Make sure you send back a proper report with your code, guideline, annotated sheets, and theoretical answers.**
