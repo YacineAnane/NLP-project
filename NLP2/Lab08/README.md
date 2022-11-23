@@ -1,5 +1,12 @@
 In this lab, we use a BERTopic model to anlyse tweets from the subsplit "offensive" of the dataset "tweet_eval". Then we use a RoBERTa  model pretrained on offensive tweets to classiy unlabelled tweets. Finally, we establish guidelines to manually annotate some of these tweets using Fleiss Kappa as a agreement mesure. 
 
+The notebook of the Lab is: 'NLP_lab08.ipynb'.
+Guidelines can be found in the file: 'Guidelines Twitter.pdf'.
+Unlabelled tweets are contained in the file: 'teets.json'.
+All annotations from 1st and 2nd iteration are contained in: 'Tweet_annotation.xlsx'.
+'Rate_dataframe.csv' and 'Rate_dataframe2.csv' contains annotaion summary for the 1st and 2nd iteration, this files are used to compute Fleiss Kappa score.
+
+
 # Introduction to Natural Language Processing 2 Lab08
 
 **This lab is mainly about data and model analysis. There is very little code. Make sure you send back a proper report with your code, guideline, annotated sheets, and theoretical answers.**
